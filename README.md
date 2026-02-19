@@ -1,5 +1,5 @@
 From Prediction to Profit: A Decision-Optimized Churn Modeling Framework
-1. Business Problem Statement
+**1. Business Problem Statement**
 This project builds a machine learning system that predicts the probability that a customer will cancel their services (churn).
 The objective is not just prediction accuracy, but actionable decision-making. The goal is to identify which customers to contact within a limited outreach budget in order to reduce revenue loss and maximize retained value.
 2. Leakage Policy
