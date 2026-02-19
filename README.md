@@ -1,4 +1,4 @@
-**Overview**
+##**Overview**
 
 This project builds a machine learning system that predicts the probability that a customer will cancel their services, also known as churn. The objective is not simply to maximize predictive accuracy, but to enable actionable decision-making. The model is designed to help a company identify which customers to contact within a limited outreach budget in order to reduce revenue loss and maximize retained value.
 
