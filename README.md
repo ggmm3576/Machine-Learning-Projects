@@ -4,7 +4,7 @@ This project builds a machine learning system that predicts the probability that
 
 Strict leakage controls were enforced throughout the modeling process to ensure realistic, production-ready evaluation. Only information that would be known before a customer cancels was used. No future data or test data was incorporated during training. Out-of-fold predictions were used for calibration to prevent target leakage, and the Platt calibration model was trained only on those out-of-fold scores.
 
-## **1. Data Preparation and Cleaning**
+## **Data Preparation and Cleaning**
 
 The dataset was first inspected to understand its structure, quality, and completeness. The TotalCharges column was converted to numeric format, and the dataset was examined for column types, summary statistics, dimensions, and missing values.
 
